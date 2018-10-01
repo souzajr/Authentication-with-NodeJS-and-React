@@ -1,4 +1,4 @@
-# Authentication with NodeJS and React 
+# Authentication with NodeJS and React
 
 ```bash
 $ git clone https://github.com/souzajr/Authentication-with-NodeJS-and-React.git
@@ -6,6 +6,10 @@ $ git clone https://github.com/souzajr/Authentication-with-NodeJS-and-React.git
 
 # Configuration and installation 
 
+you will need mongoDB
+```bash
+https://www.mongodb.com/
+```
 installing using npm
 ```bash
 $ npm install
