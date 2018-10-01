@@ -6,6 +6,7 @@ $ git clone https://github.com/souzajr/Authentication-with-NodeJS-and-React.git
 
 # Configuration and installation 
 
+installing using npm
 ```bash
 $ npm install
 ```
